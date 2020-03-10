@@ -1,4 +1,5 @@
 import pytest
+from hello import hello_world
 
 def test_hello_world():
-    return True
+    hello_world()
