@@ -2,7 +2,7 @@ def hello_world():
     print('hello world!')
 
 def hello_to(name):
-    print(f'Hello {name}!')
+    print('hello world!')
 
 def main():
     _ = hello_world()
